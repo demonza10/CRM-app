@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-edit">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="edit" clip-path="url(#clip-edit)">
+    <path id="ic_mode_edit_24px" d="M3,78.209V98H22.789L81.153,39.633,61.364,19.844ZM96.456,24.33a5.255,5.255,0,0,0,0-7.441L84.108,4.541a5.255,5.255,0,0,0-7.441,0L67.011,14.2,86.8,33.987l9.657-9.657Z" transform="translate(75 75.002)"/>
+  </g>
+</svg>

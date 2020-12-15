@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-companies">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="companies" clip-path="url(#clip-companies)">
+    <g id="baseline-domain-48px" transform="translate(63.187 63.447)">
+      <path id="Path_2175" data-name="Path 2175" d="M0,0H144.716V144.716H0Z" fill="none"/>
+      <path id="Path_2176" data-name="Path 2176" d="M57.108,25.325V6H4V92.965H110.215V25.325ZM25.243,83.3H14.622V73.639H25.243Zm0-19.325H14.622V54.314H25.243Zm0-19.325H14.622V34.988H25.243Zm0-19.325H14.622V15.663H25.243ZM46.486,83.3H35.865V73.639H46.486Zm0-19.325H35.865V54.314H46.486Zm0-19.325H35.865V34.988H46.486Zm0-19.325H35.865V15.663H46.486ZM99.594,83.3H57.108V73.639H67.729V63.976H57.108V54.314H67.729V44.651H57.108V34.988H99.594ZM88.972,44.651H78.351v9.663H88.972Zm0,19.325H78.351v9.663H88.972Z" transform="translate(15.251 22.876)"/>
+    </g>
+  </g>
+</svg>
